@@ -1,0 +1,19 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "description": "smart contract for smart-contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "collins ihezie",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.1",
+    "solc": "^0.8.9",
+    "web3": "^1.7.1"
+  }
+}
